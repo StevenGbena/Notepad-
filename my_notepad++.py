@@ -1,12 +1,6 @@
 
 
-#skip to content
-#Using Gmail with screen readers
-#Conversations
-#0.38 GB of 15 GB used
-#Terms · Privacy · Programme Policies
-#Last account activity: 23 minutes ago
-#Details
+
 import tkinter as tk
 from tkinter import filedialog
 from tkinter import scrolledtext
@@ -153,5 +147,3 @@ editor.bind("<KeyRelease>", highlight_syntax)
 current_file = None
 
 root.mainloop()
-#notepad_plus+.py
-#Displaying notepad_plus+.py.
